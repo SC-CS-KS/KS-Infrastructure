@@ -67,3 +67,5 @@ Drools主要分为两个场景，一个是规则预编译，一个是规则匹�
 Drools是从6.4.0开始支持JDK8
 7.2.0版本增加了多线程规则引擎和OOPath改进
 ```
+
+## [Drools Code Demo](https://github.com/SunnnyChan/JavaDemo/tree/master/demo-cookbook/src/main/java/me/sunny/demo/cookbook/drools)
