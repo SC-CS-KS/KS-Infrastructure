@@ -24,5 +24,8 @@
 ## [权限管理](authority/README.md)
 ## [登录认证](login/README.md)
 
+## [Rule Engine（规则引擎）](KS-RuleEngine/README.md)
+### Drools
+
 ## Resources
 * [Nacos - Dynamic Naming and Configuration Service](https://github.com/alibaba/nacos)
