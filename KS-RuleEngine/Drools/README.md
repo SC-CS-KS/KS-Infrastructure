@@ -1,6 +1,7 @@
 # [Drools](https://github.com/kiegroup/drools)
 
 * [Drools Documentation](https://docs.jboss.org/drools/release/7.26.0.Final/drools-docs/html_single/index.html)
+* [Drools 中文文档](http://ksoong.org/drools-examples/content/)
 
 ## [WhatIs](WhatIs.md)
 
