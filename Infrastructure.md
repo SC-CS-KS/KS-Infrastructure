@@ -9,11 +9,6 @@
 ## [Container（容器）](KS-CallChain/README.md)
 ## [Call Chain（调用链）](KS-CallChain/README.md)
 
-# 高可用
-## [监控](KS-Infra-HA/Monitor/README.md)
-## [负载均衡](KS-Infra-HA/LoadBalancing/README.md)
-## [多数据中心](KS-Infra-HA/Multi-DataCenter/README.md)
-
 # 业务基础服务
 ## [Config 统一配置中心](biz-infra/configure/README.md)
 ## [统一调度中心](biz-infra/scheduling/README.md)
@@ -26,6 +21,11 @@
 
 ## [Rule Engine（规则引擎）](KS-RuleEngine/README.md)
 ### Drools
+
+# [高可用](https://github.com/SC-CS-KS/KS-HA)
+## 监控
+## 负载均衡
+## 多数据中心
 
 ## Resources
 * [Nacos - Dynamic Naming and Configuration Service](https://github.com/alibaba/nacos)
