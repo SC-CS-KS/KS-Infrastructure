@@ -1,6 +1,5 @@
 # JSR-94
 
-```md
 JSR-94 是由JCP(Java Community Process)组织所制定的java规则引擎API的java请求规范。
 它主要定义了规则引擎在java运行时的一些API，指导各个java规则引擎的厂商能够基于这个API实现规则引擎。
 
@@ -8,14 +7,13 @@ JSR-94 是由JCP(Java Community Process)组织所制定的java规则引擎API的
 
 当前主流支持这个标准的开源java规则引擎有：
 Drools、OpenRules、JLisa、JRuleEngine。
-```
+
 ## 目的
-```md
+
 为了促进规则引擎技术在java程序中的发展；
 增加java规则引擎厂商之间的的交流以及标准化工作；
 让使用规则引擎的第三方应用更加方便与规范；
 也为了简化规则引擎商对外提供的API。
-```
 
 ## 概念
 ### Rule（规则）
