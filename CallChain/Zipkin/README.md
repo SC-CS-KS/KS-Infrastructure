@@ -1,13 +1,11 @@
 # [ZipKin](https://zipkin.io/)
-```md
+
 是一个开放源代码分布式的跟踪系统，每个服务向zipkin报告计时数据，
 zipkin会根据调用关系通过Zipkin UI生成依赖关系图。
 
 由 Twitter 开源。
-```
-```md
+
 Zipkin提供了可插拔数据存储方式：In-Memory、MySql、Cassandra以及Elasticsearch。
-```
 
 ## 概念
 * Trace
